@@ -56,7 +56,7 @@ Hasil penelitian ini menunjukkan bahwa **peningkatan akses layanan sanitasi dapa
 ## 📂 Struktur Repository  
 ```
 📁 dataset/         # Data publik dari BPS Indonesia  
-📁 makalah/         # Technical report hasil data mining 
+📁 Paper/           # Technical report hasil data mining 
 📁 knime/           # Workflow KNIME untuk pemrosesan data 
 📁 images/          # Visualisasi hasil analisis   
 📄 README.md        # Dokumentasi proyek  
